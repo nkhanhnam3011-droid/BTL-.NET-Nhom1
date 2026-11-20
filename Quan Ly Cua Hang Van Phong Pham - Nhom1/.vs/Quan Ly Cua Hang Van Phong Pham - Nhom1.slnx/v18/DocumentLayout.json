@@ -1,10 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BTL .NET Nhom1\\BTL .NET Nhom1\\Quan Ly Cua Hang Van Phong Pham - Nhom1\\",
+  "WorkspaceRootPath": "D:\\TaiXuongD\\Test\\BTL-.NET-Nhom1\\Quan Ly Cua Hang Van Phong Pham - Nhom1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{203BE822-6328-4316-8B55-6865894F1260}|Quan Ly Cua Hang Van Phong Pham - Nhom1.csproj|d:\\btl .net nhom1\\btl .net nhom1\\quan ly cua hang van phong pham - nhom1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{203BE822-6328-4316-8B55-6865894F1260}|Quan Ly Cua Hang Van Phong Pham - Nhom1.csproj|d:\\taixuongd\\test\\btl-.net-nhom1\\quan ly cua hang van phong pham - nhom1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{203BE822-6328-4316-8B55-6865894F1260}|Quan Ly Cua Hang Van Phong Pham - Nhom1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203BE822-6328-4316-8B55-6865894F1260}|Quan Ly Cua Hang Van Phong Pham - Nhom1.csproj|d:\\taixuongd\\test\\btl-.net-nhom1\\quan ly cua hang van phong pham - nhom1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{203BE822-6328-4316-8B55-6865894F1260}|Quan Ly Cua Hang Van Phong Pham - Nhom1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Quan Ly Cua Hang Van Phong Pham - Nhom1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203BE822-6328-4316-8B55-6865894F1260}|Quan Ly Cua Hang Van Phong Pham - Nhom1.csproj|d:\\taixuongd\\test\\btl-.net-nhom1\\quan ly cua hang van phong pham - nhom1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +24,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\TaiXuongD\\Test\\BTL-.NET-Nhom1\\Quan Ly Cua Hang Van Phong Pham - Nhom1\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\TaiXuongD\\Test\\BTL-.NET-Nhom1\\Quan Ly Cua Hang Van Phong Pham - Nhom1\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T13:22:01.941Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\BTL .NET Nhom1\\BTL .NET Nhom1\\Quan Ly Cua Hang Van Phong Pham - Nhom1\\Form1.cs",
+              "DocumentMoniker": "D:\\TaiXuongD\\Test\\BTL-.NET-Nhom1\\Quan Ly Cua Hang Van Phong Pham - Nhom1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\BTL .NET Nhom1\\BTL .NET Nhom1\\Quan Ly Cua Hang Van Phong Pham - Nhom1\\Form1.cs [Design]",
+              "ToolTip": "D:\\TaiXuongD\\Test\\BTL-.NET-Nhom1\\Quan Ly Cua Hang Van Phong Pham - Nhom1\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T12:22:09.692Z",
+              "WhenOpened": "2026-11-20T13:21:34.464Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quan Ly Cua Hang Van Phong Pham - Nhom1",
+              "DocumentMoniker": "D:\\TaiXuongD\\Test\\BTL-.NET-Nhom1\\Quan Ly Cua Hang Van Phong Pham - Nhom1\\Quan Ly Cua Hang Van Phong Pham - Nhom1.csproj",
+              "RelativeDocumentMoniker": "Quan Ly Cua Hang Van Phong Pham - Nhom1.csproj",
+              "ToolTip": "D:\\TaiXuongD\\Test\\BTL-.NET-Nhom1\\Quan Ly Cua Hang Van Phong Pham - Nhom1\\Quan Ly Cua Hang Van Phong Pham - Nhom1.csproj",
+              "RelativeToolTip": "Quan Ly Cua Hang Van Phong Pham - Nhom1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-20T13:21:24.016Z",
+              "EditorCaption": ""
             }
           ]
         }

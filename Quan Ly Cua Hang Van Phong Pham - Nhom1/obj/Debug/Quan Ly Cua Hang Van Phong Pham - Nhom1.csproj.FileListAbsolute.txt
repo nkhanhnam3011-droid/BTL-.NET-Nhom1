@@ -1,0 +1,13 @@
+D:\TaiXuongD\Test\BTL-.NET-Nhom1\Quan Ly Cua Hang Van Phong Pham - Nhom1\bin\Debug\Quan Ly Cua Hang Van Phong Pham - Nhom1.exe.config
+D:\TaiXuongD\Test\BTL-.NET-Nhom1\Quan Ly Cua Hang Van Phong Pham - Nhom1\bin\Debug\Quan Ly Cua Hang Van Phong Pham - Nhom1.exe
+D:\TaiXuongD\Test\BTL-.NET-Nhom1\Quan Ly Cua Hang Van Phong Pham - Nhom1\bin\Debug\Quan Ly Cua Hang Van Phong Pham - Nhom1.pdb
+D:\TaiXuongD\Test\BTL-.NET-Nhom1\Quan Ly Cua Hang Van Phong Pham - Nhom1\obj\Debug\Quan Ly Cua Hang Van Phong Pham - Nhom1.csproj.AssemblyReference.cache
+D:\TaiXuongD\Test\BTL-.NET-Nhom1\Quan Ly Cua Hang Van Phong Pham - Nhom1\obj\Debug\Quan_Ly_Cua_Hang_Van_Phong_Pham___Nhom1.Form1.resources
+D:\TaiXuongD\Test\BTL-.NET-Nhom1\Quan Ly Cua Hang Van Phong Pham - Nhom1\obj\Debug\Quan_Ly_Cua_Hang_Van_Phong_Pham___Nhom1.Properties.Resources.resources
+D:\TaiXuongD\Test\BTL-.NET-Nhom1\Quan Ly Cua Hang Van Phong Pham - Nhom1\obj\Debug\Quan Ly Cua Hang Van Phong Pham - Nhom1.csproj.GenerateResource.cache
+D:\TaiXuongD\Test\BTL-.NET-Nhom1\Quan Ly Cua Hang Van Phong Pham - Nhom1\obj\Debug\Quan Ly Cua Hang Van Phong Pham - Nhom1.csproj.CoreCompileInputs.cache
+D:\TaiXuongD\Test\BTL-.NET-Nhom1\Quan Ly Cua Hang Van Phong Pham - Nhom1\obj\Debug\Quan Ly Cua Hang Van Phong Pham - Nhom1.exe
+D:\TaiXuongD\Test\BTL-.NET-Nhom1\Quan Ly Cua Hang Van Phong Pham - Nhom1\obj\Debug\Quan Ly Cua Hang Van Phong Pham - Nhom1.pdb
+D:\TaiXuongD\Test\BTL-.NET-Nhom1\Quan Ly Cua Hang Van Phong Pham - Nhom1\bin\Debug\System.dll
+D:\TaiXuongD\Test\BTL-.NET-Nhom1\Quan Ly Cua Hang Van Phong Pham - Nhom1\bin\Debug\System.xml
+D:\TaiXuongD\Test\BTL-.NET-Nhom1\Quan Ly Cua Hang Van Phong Pham - Nhom1\obj\Debug\Quan Ly .33F27FBE.Up2Date
